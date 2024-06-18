@@ -1,0 +1,18 @@
+<players>
+    <player id="1" remember="false">
+        <username>Tuan</username>
+        <password>123456</password>
+    </player>
+    <player id="2" remember="false">
+        <username>Tuan</username>
+        <password>123456</password>
+    </player>
+    <player id="3" remember="false">
+        <username>cuong</username>
+        <password>12345</password>
+    </player>
+    <player id="4" remember="false">
+        <username>vcuong</username>
+        <password>123</password>
+    </player>
+</players>

@@ -1,0 +1,5 @@
+
+
+public enum Panels {
+	GAME_PANEL, MENU_VIEW, LOGIN_PANEl, REGISTER_PANEL
+}

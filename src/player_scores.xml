@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scores>
+    <score>
+        <name>Player1</name>
+        <points>1000</points>
+    </score>
+    <score>
+        <name>Player2</name>
+        <points>1500</points>
+    </score>
+    <!-- Thêm nhiều điểm hơn nếu cần -->
+</scores>
